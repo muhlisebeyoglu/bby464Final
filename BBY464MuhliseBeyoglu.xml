@@ -1,0 +1,1779 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/lxhHqDCH1Up49JNGjn6OB#"
+     xml:base="http://webprotege.stanford.edu/project/lxhHqDCH1Up49JNGjn6OB"
+     xmlns:webprotege="http://webprotege.stanford.edu/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/lxhHqDCH1Up49JNGjn6OB"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/coverage -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/coverage"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/description -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R72tlU8IFQ26SzCOu22nVNB -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R72tlU8IFQ26SzCOu22nVNB">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd"/>
+        <rdfs:label>hasShop</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R78mX6jsY388UsrijvYvsoS -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R78mX6jsY388UsrijvYvsoS">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd"/>
+        <rdfs:label>hasParking</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8RJvgs9yFHCUR51bA0MkxD -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8RJvgs9yFHCUR51bA0MkxD">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd"/>
+        <rdfs:label>hasOrganization</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8k8x7qs81d2kq3v4jNv2gb -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8k8x7qs81d2kq3v4jNv2gb">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd"/>
+        <rdfs:label>hasMuseumEducation</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB8wTvoKWhOaznjI1xkjjtp -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RB8wTvoKWhOaznjI1xkjjtp">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd"/>
+        <rdfs:label>hasRestaurant</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/R7jFcfQyvmFvX7aymr6UiSd"/>
+        <rdfs:label>howtransportation</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBwZvPdGLvLxypDymiUyFrP -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RBwZvPdGLvLxypDymiUyFrP">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd"/>
+        <rdfs:label>hasAccommodation</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC3uesSRMITLaDc8ISTaTzD -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RC3uesSRMITLaDc8ISTaTzD">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/RBjWzqi87MLl77YxMjy5Dlr"/>
+        <rdfs:label>whichDayHoliday</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#topObjectProperty -->
+
+    <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#topObjectProperty">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd"/>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8CC0HzFlMnvVGzW3J3RA5D -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R8CC0HzFlMnvVGzW3J3RA5D">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Müze Ücretleri</dc:description>
+        <rdfs:isDefinedBy xml:lang="tu">Ücret</rdfs:isDefinedBy>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Payment</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9dww10mCsDzXa2TwRLXTOX -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9dww10mCsDzXa2TwRLXTOX">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <dc:coverage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">string</dc:coverage>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Müzenin Bulunduğu Şehir</dc:description>
+        <rdfs:label>City</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCxKF24OxTGpYzagyt5vY6T -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RCxKF24OxTGpYzagyt5vY6T">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Müzenin Adresi</dc:description>
+        <rdfs:isDefinedBy xml:lang="tur">Adres</rdfs:isDefinedBy>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Address</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDDJneSxaDOSFYa2fdcrt5i -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RDDJneSxaDOSFYa2fdcrt5i">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Müzenin E-posta Adresi</dc:description>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elektronik Posta</rdfs:isDefinedBy>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eposta</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDwx0rhUcPupFGpwelopbnI -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RDwx0rhUcPupFGpwelopbnI">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Müze Giriş Çıkış Saatleri</dc:description>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saat</rdfs:isDefinedBy>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hour</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RKrSRLudo1sabVdkxgg4jw -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RKrSRLudo1sabVdkxgg4jw">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Müze Telefon</dc:description>
+        <rdfs:isDefinedBy xml:lang="tur">Telefon</rdfs:isDefinedBy>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Telephone</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R5monYquceGgOqUp92rtxl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R5monYquceGgOqUp92rtxl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Şehr-i Safa Cafe</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R6xYawiNy77Yh1BSj8QIdX -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R6xYawiNy77Yh1BSj8QIdX">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Asmalı Cavit</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R79rucLwAoOZ4k1PK2F6Wpi -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R79rucLwAoOZ4k1PK2F6Wpi">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7rvyECw4Gt2BFjruHsO4Nx"/>
+        <rdfs:label>PrivateMuseums</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7A1YyvvSmksg8020cKj1V3 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7A1YyvvSmksg8020cKj1V3">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Otel Dikmen</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7JCqWIUagkUGep62Aw1uCr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7JCqWIUagkUGep62Aw1uCr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>The Marmara Taksim</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7M0dk9bWx15KbJpNM8gdbS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7M0dk9bWx15KbJpNM8gdbS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs"/>
+        <rdfs:label>Ankara</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7NBk3jHYeNwIjd0uL9qMwJ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7NBk3jHYeNwIjd0uL9qMwJ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Şeflerin Yeri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7T3FLIeuJ9yNxmzcIGuX10 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7T3FLIeuJ9yNxmzcIGuX10">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBjWzqi87MLl77YxMjy5Dlr"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Monday</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7Ut8NJzcNtILhLa8LZOrha -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7Ut8NJzcNtILhLa8LZOrha">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBjWzqi87MLl77YxMjy5Dlr"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Friday</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7e03SqAukeVXtxMy8qM0iS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7e03SqAukeVXtxMy8qM0iS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8Yciy4VYHnnLNx1qvL3Lcg"/>
+        <rdfs:label>EkonoMuseum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7jFcfQyvmFvX7aymr6UiSd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7jFcfQyvmFvX7aymr6UiSd">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Transportation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7rZKmnOStuw0IgOP0ko63K -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7rZKmnOStuw0IgOP0ko63K">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs"/>
+        <rdfs:label>Kayseri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7rvyECw4Gt2BFjruHsO4Nx -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7rvyECw4Gt2BFjruHsO4Nx">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd"/>
+        <rdfs:label>ManagementUnit</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7v10EPhy0iIAC885x954NG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7v10EPhy0iIAC885x954NG">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBjWzqi87MLl77YxMjy5Dlr"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sunday</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Museums</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Hotels</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8OPQHzWnZQKygwVlNiJaBM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8OPQHzWnZQKygwVlNiJaBM">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs"/>
+        <rdfs:label>Adıyaman</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8RJPkHQAOtZWVn5rzS5Bon -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8RJPkHQAOtZWVn5rzS5Bon">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>ParkHouse Otel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8Yciy4VYHnnLNx1qvL3Lcg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8Yciy4VYHnnLNx1qvL3Lcg">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd"/>
+        <rdfs:label>Collection</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8cmfQ8IUYHGVc8IO4hkQ4f -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8cmfQ8IUYHGVc8IO4hkQ4f">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7rvyECw4Gt2BFjruHsO4Nx"/>
+        <rdfs:label>StateMuseums</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8gfFmD5MJyg2WK8Wfsjaj7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8gfFmD5MJyg2WK8Wfsjaj7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBjWzqi87MLl77YxMjy5Dlr"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thursday</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8siGUUa7aDI6Tnd7EIzRSl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8siGUUa7aDI6Tnd7EIzRSl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8Yciy4VYHnnLNx1qvL3Lcg"/>
+        <rdfs:label>ScienceMuseum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8ublBFX7YU3QpUuz0XbiqQ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8ublBFX7YU3QpUuz0XbiqQ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7rvyECw4Gt2BFjruHsO4Nx"/>
+        <rdfs:label>MunicipalMuseums</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R95G1DzqE3EwsC1L4gCPexR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R95G1DzqE3EwsC1L4gCPexR">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>The Selection Premium</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9CC4Dzzfg7HX3OOD1uLo54 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9CC4Dzzfg7HX3OOD1uLo54">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Zenger Paşa Konağı</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9RNWOkh3wUe7hteIZgajqT -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9RNWOkh3wUe7hteIZgajqT">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Tiryakioğlu Döner</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9SmH1xCcLgACSvnSIcX2c7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9SmH1xCcLgACSvnSIcX2c7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Nu Pera Nu Teras</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9kbsp9iZq1nWigJI9Kq3WC -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9kbsp9iZq1nWigJI9Kq3WC">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs"/>
+        <rdfs:label>İzmir</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9lqEe5fp6B6IZmO0MNv3Jr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9lqEe5fp6B6IZmO0MNv3Jr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Yalı</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9qtG7YlIj6SnZYcmLlOwU7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9qtG7YlIj6SnZYcmLlOwU7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs"/>
+        <rdfs:label>Nevşehir</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB1YtxnzbvV6J8LssLeS7aS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB1YtxnzbvV6J8LssLeS7aS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd"/>
+        <rdfs:label>Place</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBCm3aYcDiJwLV2U2Cmo4Ga -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBCm3aYcDiJwLV2U2Cmo4Ga">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8Yciy4VYHnnLNx1qvL3Lcg"/>
+        <rdfs:label>ArtMuseums</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBFGDSjMXJ9X16uNYxOwbL8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBFGDSjMXJ9X16uNYxOwbL8">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Katipler Konağı</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBG5vKMUjld3uEC00jyQLfa -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBG5vKMUjld3uEC00jyQLfa">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDVtkYVrITcDbVh1nBEobyZ"/>
+        <rdfs:label>ExpertiseMuseums</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBisaHGoynwwdHkJo7OXoRh -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBisaHGoynwwdHkJo7OXoRh">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB1YtxnzbvV6J8LssLeS7aS"/>
+        <rdfs:label>MonumentMuseums</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBjWzqi87MLl77YxMjy5Dlr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBjWzqi87MLl77YxMjy5Dlr">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Day</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBktgXUsPfaHIGkaoUyFnBu -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBktgXUsPfaHIGkaoUyFnBu">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7jFcfQyvmFvX7aymr6UiSd"/>
+        <rdfs:label>Bus</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBmqFMv5NlPOXk0Dai4SCuo -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBmqFMv5NlPOXk0Dai4SCuo">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Nevizade</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBqzlD3EVwDPTm2HHpj6TR1 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBqzlD3EVwDPTm2HHpj6TR1">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Yener Ocakbaşı</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBsLrW171RX3cxPLYO1C4Lq -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBsLrW171RX3cxPLYO1C4Lq">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDVtkYVrITcDbVh1nBEobyZ"/>
+        <rdfs:label>ChildandYouthMuseums</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBwRJV7mx54OyUFJQ3hPHTQ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBwRJV7mx54OyUFJQ3hPHTQ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB1YtxnzbvV6J8LssLeS7aS"/>
+        <rdfs:label>MuseumHouses</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBxwCcYoU2NJIRySKvjF5uz -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBxwCcYoU2NJIRySKvjF5uz">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs"/>
+        <rdfs:label>İstanbul</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC2CNngZyU2QSU94bXl74RW -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC2CNngZyU2QSU94bXl74RW">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs"/>
+        <rdfs:label>Bayburt</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC4ouyUFIDoIbzGG4CoEZsH -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC4ouyUFIDoIbzGG4CoEZsH">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Bursa Park İskender</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC8JecLy7DAIivwXU8hV3pp -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC8JecLy7DAIivwXU8hV3pp">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8Yciy4VYHnnLNx1qvL3Lcg"/>
+        <rdfs:label>EthnographicMuseums</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC95pCOzZSjN8rGGUbkDpXr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC95pCOzZSjN8rGGUbkDpXr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8Yciy4VYHnnLNx1qvL3Lcg"/>
+        <rdfs:label>HistoryMuseums</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCAFBNGVvI45H9DY1YLc3cy -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCAFBNGVvI45H9DY1YLc3cy">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Kilpa</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCAjjzS7rHD3ckzx9IZFx07 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCAjjzS7rHD3ckzx9IZFx07">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Uğur Otel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCMklzO3qb3Mqo9zNCC83Tg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCMklzO3qb3Mqo9zNCC83Tg">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Kınacızade Konağı</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCOPsYF67fNyGCSjIJ1KOMl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCOPsYF67fNyGCSjIJ1KOMl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB1YtxnzbvV6J8LssLeS7aS"/>
+        <rdfs:label>OpenAirMuseums</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCOopSaAW5GdpZhqM04X7Ap -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCOopSaAW5GdpZhqM04X7Ap">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7jFcfQyvmFvX7aymr6UiSd"/>
+        <rdfs:label>Car</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCXxljRflAG9AedFkfpeXyr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCXxljRflAG9AedFkfpeXyr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Sefim İskender</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCZ3830lqngb1hrb0BikJrp -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCZ3830lqngb1hrb0BikJrp">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Kalamış</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCm0BwucMXA5FMi4LMD7ina -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCm0BwucMXA5FMi4LMD7ina">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Kebapçı İskender Ünlü Cadde</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCmgcio8bptn6SVchHggzmk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCmgcio8bptn6SVchHggzmk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Otel Bayburt</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCtJ6VR5Xdq2pzZ3k1uC0Ht -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCtJ6VR5Xdq2pzZ3k1uC0Ht">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Şamdan</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCyJ1vtunbEm1OTb7Td30nr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCyJ1vtunbEm1OTb7Td30nr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7rvyECw4Gt2BFjruHsO4Nx"/>
+        <rdfs:label>FoundationMuseum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCzFaIZzMj4RT5HQrWZnFST -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCzFaIZzMj4RT5HQrWZnFST">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs"/>
+        <rdfs:label>Eskişehir</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCzwgCPKfGFdvhsUOXrO7ZA -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCzwgCPKfGFdvhsUOXrO7ZA">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Divan Çukurhan</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCzxwMrYVABNOF1FWY6fxKA -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCzxwMrYVABNOF1FWY6fxKA">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Şirin Otel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDBPFvUhHVq1HU4WxATYXTO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDBPFvUhHVq1HU4WxATYXTO">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Kayra Otel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDCV0D8BquwZxJicrMEorfV -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDCV0D8BquwZxJicrMEorfV">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8Yciy4VYHnnLNx1qvL3Lcg"/>
+        <rdfs:label>IndustryMuseum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDMHa7zOPLGZTAr5433XDc -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDMHa7zOPLGZTAr5433XDc">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8Yciy4VYHnnLNx1qvL3Lcg"/>
+        <rdfs:label>ArchaeologicalMuseums</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDRDyKR29DiTySWaobP0T76 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDRDyKR29DiTySWaobP0T76">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs"/>
+        <rdfs:label>Çorum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDRQh2xax0gMIIktVBaiZXb -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDRQh2xax0gMIIktVBaiZXb">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Ankara Plaza Otel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDVtkYVrITcDbVh1nBEobyZ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDVtkYVrITcDbVh1nBEobyZ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R85HVgEqcy7kzGCI4ob4oTd"/>
+        <rdfs:label>AddressedAudience</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDib8dUFw6MkMRZoIPbyzZ5 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDib8dUFw6MkMRZoIPbyzZ5">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs"/>
+        <rdfs:label>Aydın</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDqO1odtyBifL1dxhy7EifV -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDqO1odtyBifL1dxhy7EifV">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Rixos Pera İstanbul</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDtQYC4jBEEzfcRwPvVj8h9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDtQYC4jBEEzfcRwPvVj8h9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7jFcfQyvmFvX7aymr6UiSd"/>
+        <rdfs:label>Subway</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/REMBoTDy4d7BCYX0fbMzHg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/REMBoTDy4d7BCYX0fbMzHg">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8Yciy4VYHnnLNx1qvL3Lcg"/>
+        <rdfs:label>NatureHistoryandGeologyMuseum</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RGUyiB0AJbEvtrjs5dlZKU -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RGUyiB0AJbEvtrjs5dlZKU">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Koyum Pide</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RHUXieb40qTgnAFyWw26j1 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RHUXieb40qTgnAFyWw26j1">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7rvyECw4Gt2BFjruHsO4Nx"/>
+        <rdfs:label>MılıtaryMuseums</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RIWYyfrH3oVQ5M72LrST3 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RIWYyfrH3oVQ5M72LrST3">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Kar Otel Uzungöl</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RJVzzkxXThIRGnssgdaXOp -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RJVzzkxXThIRGnssgdaXOp">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Radisson Blu Hotel İstanbul Pera</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RL31Xl2vequ9f95F14uksY -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RL31Xl2vequ9f95F14uksY">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Asmalı Konak</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>City</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RNnTZvspeo7ZrKWL5gakzT -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RNnTZvspeo7ZrKWL5gakzT">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Green Park Bostancı</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RRXchrxCY1voPJmxSzLC48 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RRXchrxCY1voPJmxSzLC48">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Ethemefendi 36</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RTZeeAN0rJouGTVnAkgjGT -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RTZeeAN0rJouGTVnAkgjGT">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Artıç Hotel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Resteurant</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RUsdwfxUacGotl9EGgxjqM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RUsdwfxUacGotl9EGgxjqM">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBjWzqi87MLl77YxMjy5Dlr"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saturday</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RWwPz2qMD9YVDNGn6GRPEe -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RWwPz2qMD9YVDNGn6GRPEe">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Et Ye Gurme</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RXcuYQRaPrHXF6PNp6KMbH -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RXcuYQRaPrHXF6PNp6KMbH">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBjWzqi87MLl77YxMjy5Dlr"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wednesday</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RYD6PdRgGdxhsoYvkqCPGt -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RYD6PdRgGdxhsoYvkqCPGt">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7rvyECw4Gt2BFjruHsO4Nx"/>
+        <rdfs:label>MuseumsConnectedtoUniversities</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RcYuaU4Nyq9rkTdnTZdAO0 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RcYuaU4Nyq9rkTdnTZdAO0">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBjWzqi87MLl77YxMjy5Dlr"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tuesday</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/ReB3iq6zwrOpoLcZ5TXOZ2 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/ReB3iq6zwrOpoLcZ5TXOZ2">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs"/>
+        <rdfs:label>Bursa</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rma88gCbST4vKPIdJxt1EK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rma88gCbST4vKPIdJxt1EK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs"/>
+        <rdfs:label>Çanakkale</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RmgvgXtz9gJu9UxPWQhqik -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RmgvgXtz9gJu9UxPWQhqik">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Hotel Best</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RnfmQiBMYC3TYjPWD7xV3G -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RnfmQiBMYC3TYjPWD7xV3G">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RMPcMAWir46Qykqj9OVHqs"/>
+        <rdfs:label>Burdur</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RpmP6zcX2S83FXboKm3jrQ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RpmP6zcX2S83FXboKm3jrQ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8GZIWDM9RCTvuaRAVJ9WYm"/>
+        <rdfs:label>Feyzan Otel</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rqb7CQt5DrKtbgwBxF5SRb -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rqb7CQt5DrKtbgwBxF5SRb">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RU7hNAD6hx09VYeLZCgxjS"/>
+        <rdfs:label>Deniz Kapısı Balık Evi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7XZvT4ReXVjst9a90vU1Uu -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7XZvT4ReXVjst9a90vU1Uu">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC95pCOzZSjN8rGGUbkDpXr"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RYD6PdRgGdxhsoYvkqCPGt"/>
+        <rdfs:label>Erciyes Ü. Gevher Nesibe Tıp Tarihi Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7bqvwAf8KU5nX7xtxlMfq -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7bqvwAf8KU5nX7xtxlMfq">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC95pCOzZSjN8rGGUbkDpXr"/>
+        <rdfs:label>Anıtkabir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7dPCLPO4JirhtEUWNfJjTV -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7dPCLPO4JirhtEUWNfJjTV">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8siGUUa7aDI6Tnd7EIzRSl"/>
+        <rdfs:label>ODTÜ Bilim ve Teknoloji Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7dtl2VYFjTJFjo18en79wO -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7dtl2VYFjTJFjo18en79wO">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCOPsYF67fNyGCSjIJ1KOMl"/>
+        <rdfs:label>Perge Antik Kenti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7kLJvQFeS2jJNyiTv78K0V -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7kLJvQFeS2jJNyiTv78K0V">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCOPsYF67fNyGCSjIJ1KOMl"/>
+        <rdfs:label>Milet Antik Kenti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7oOMAdoSa8gsWzTVUvlz4n -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7oOMAdoSa8gsWzTVUvlz4n">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8siGUUa7aDI6Tnd7EIzRSl"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9RNWOkh3wUe7hteIZgajqT"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBsLrW171RX3cxPLYO1C4Lq"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC4ouyUFIDoIbzGG4CoEZsH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RWwPz2qMD9YVDNGn6GRPEe"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBktgXUsPfaHIGkaoUyFnBu"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCOopSaAW5GdpZhqM04X7Ap"/>
+            </owl:Restriction>
+        </rdf:type>
+        <webprotege:R72tlU8IFQ26SzCOu22nVNB rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R78mX6jsY388UsrijvYvsoS rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R8RJvgs9yFHCUR51bA0MkxD rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R8k8x7qs81d2kq3v4jNv2gb rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:RB8wTvoKWhOaznjI1xkjjtp rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:RBwZvPdGLvLxypDymiUyFrP rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:R8CC0HzFlMnvVGzW3J3RA5D rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sadece Bilim Merkezi: Yetişkin	7 TL, İndirimli(Öğrenci, Öğretmen ve Emekli) 5 TL, Aile (en az 4 kişi) 5 TL, Bebek (6 yaş altındakiler) Bedava	
+Sadece 7D Film: Yetişkin 7 TL,  İndirimli(Öğrenci, Öğretmen ve Emekli) 5 TL,  Aile (en az 4 kişi) 5 TL, Bebek (6 yaş altındakiler) Bedava	
+Bilim Merkezi + 7D Film:  Yetişkin 10 TL (Kazanç 4 TL), İndirimli(Öğrenci, Öğretmen ve Emekli) 7 TL (Kazanç 3 TL),  Aile (en az 4 kişi)  7 TL (Kazanç 3 TL)</webprotege:R8CC0HzFlMnvVGzW3J3RA5D>
+        <webprotege:R9dww10mCsDzXa2TwRLXTOX rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ankara</webprotege:R9dww10mCsDzXa2TwRLXTOX>
+        <webprotege:RCxKF24OxTGpYzagyt5vY6T rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feza Gürsey Bilim Merkezi, İrfan Baştuğ Caddesi 154  Altınpark 
+06140 Ankara, Türkiye</webprotege:RCxKF24OxTGpYzagyt5vY6T>
+        <webprotege:RDDJneSxaDOSFYa2fdcrt5i rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iletisim@fezagurseybilimmerkezi.com</webprotege:RDDJneSxaDOSFYa2fdcrt5i>
+        <webprotege:RDwx0rhUcPupFGpwelopbnI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09:00-18:00</webprotege:RDwx0rhUcPupFGpwelopbnI>
+        <webprotege:RKrSRLudo1sabVdkxgg4jw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(0312) 317-9919 veya (0312) 596-9000</webprotege:RKrSRLudo1sabVdkxgg4jw>
+        <rdfs:label>Feza Gürsey Bilim Merkezi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7ryzEJh0IR7vjGFYBAwheI -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7ryzEJh0IR7vjGFYBAwheI">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC95pCOzZSjN8rGGUbkDpXr"/>
+        <rdfs:label>Ayasofya Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R838f87mXxnsGzOi9ieXWJ8 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R838f87mXxnsGzOi9ieXWJ8">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBwRJV7mx54OyUFJQ3hPHTQ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RYD6PdRgGdxhsoYvkqCPGt"/>
+        <rdfs:label>Hacettepe Üniversitesi Mehmet Akif Ersoy (Müze) Evi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8TYr7elKNd1863iIItJ4v5 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8TYr7elKNd1863iIItJ4v5">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCOPsYF67fNyGCSjIJ1KOMl"/>
+        <rdfs:label>Göreme Açık Hava Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8TiQnhvrGcr2mQ4UEefdkM -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8TiQnhvrGcr2mQ4UEefdkM">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8cmfQ8IUYHGVc8IO4hkQ4f"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBFGDSjMXJ9X16uNYxOwbL8"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC8JecLy7DAIivwXU8hV3pp"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCXxljRflAG9AedFkfpeXyr"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCtJ6VR5Xdq2pzZ3k1uC0Ht"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCzxwMrYVABNOF1FWY6fxKA"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDBPFvUhHVq1HU4WxATYXTO"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDMHa7zOPLGZTAr5433XDc"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RpmP6zcX2S83FXboKm3jrQ"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBktgXUsPfaHIGkaoUyFnBu"/>
+            </owl:Restriction>
+        </rdf:type>
+        <webprotege:R72tlU8IFQ26SzCOu22nVNB rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:R78mX6jsY388UsrijvYvsoS rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:R8RJvgs9yFHCUR51bA0MkxD rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:R8k8x7qs81d2kq3v4jNv2gb rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:RB8wTvoKWhOaznjI1xkjjtp rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:RBwZvPdGLvLxypDymiUyFrP rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:R8CC0HzFlMnvVGzW3J3RA5D rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giriş Ücreti: 8 TL</webprotege:R8CC0HzFlMnvVGzW3J3RA5D>
+        <webprotege:R9dww10mCsDzXa2TwRLXTOX rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Çorum</webprotege:R9dww10mCsDzXa2TwRLXTOX>
+        <webprotege:RCxKF24OxTGpYzagyt5vY6T rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cengiz Topel Cd 122-136, Gülabibey Mh., Çorum, Türkiye</webprotege:RCxKF24OxTGpYzagyt5vY6T>
+        <webprotege:RDDJneSxaDOSFYa2fdcrt5i rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iktm19@kultur.gov.tr</webprotege:RDDJneSxaDOSFYa2fdcrt5i>
+        <webprotege:RDwx0rhUcPupFGpwelopbnI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15 Nisan / 2 Ekim Yaz Açılış Saati: 08:00
+15 Nisan / 2 Ekim Yaz Kapanış Saati: 19:00
+3 Ekim / 14 Nisan Kış Açılış Saati: 08:30
+3 Ekim / 14 Nisan Kış Kapanış Saati: 17:00</webprotege:RDwx0rhUcPupFGpwelopbnI>
+        <webprotege:RKrSRLudo1sabVdkxgg4jw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">+90 (364) 212 05 10</webprotege:RKrSRLudo1sabVdkxgg4jw>
+        <rdfs:label>Çorum Arkeoloji Ve Etnografya Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8wxNiffL3BfG56g9BENwYS -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8wxNiffL3BfG56g9BENwYS">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC8JecLy7DAIivwXU8hV3pp"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCOPsYF67fNyGCSjIJ1KOMl"/>
+        <rdfs:label>Altınköy Açıkhava Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R93pZoIzeJKUloNyzYkDW6V -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R93pZoIzeJKUloNyzYkDW6V">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC95pCOzZSjN8rGGUbkDpXr"/>
+        <rdfs:label>1. TBMM Kurtuluş Savaşı Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9VoWiLIJ5PnXJtin9U3Zj -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9VoWiLIJ5PnXJtin9U3Zj">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R79rucLwAoOZ4k1PK2F6Wpi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9CC4Dzzfg7HX3OOD1uLo54"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCMklzO3qb3Mqo9zNCC83Tg"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCzwgCPKfGFdvhsUOXrO7ZA"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDMHa7zOPLGZTAr5433XDc"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDRQh2xax0gMIIktVBaiZXb"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RL31Xl2vequ9f95F14uksY"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RmgvgXtz9gJu9UxPWQhqik"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBktgXUsPfaHIGkaoUyFnBu"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCOopSaAW5GdpZhqM04X7Ap"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RC3uesSRMITLaDc8ISTaTzD"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7T3FLIeuJ9yNxmzcIGuX10"/>
+            </owl:Restriction>
+        </rdf:type>
+        <webprotege:R9dww10mCsDzXa2TwRLXTOX rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ankara</webprotege:R9dww10mCsDzXa2TwRLXTOX>
+        <webprotege:RCxKF24OxTGpYzagyt5vY6T rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kale Mahallesi Gözcü Sokak No:10 06240 Altındağ/Ankara</webprotege:RCxKF24OxTGpYzagyt5vY6T>
+        <webprotege:RDDJneSxaDOSFYa2fdcrt5i rdf:datatype="http://www.w3.org/2001/XMLSchema#string">info@erimtanmuseum.org</webprotege:RDDJneSxaDOSFYa2fdcrt5i>
+        <webprotege:RDwx0rhUcPupFGpwelopbnI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10:00 - 18:00</webprotege:RDwx0rhUcPupFGpwelopbnI>
+        <webprotege:RKrSRLudo1sabVdkxgg4jw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0312 311 04 01</webprotege:RKrSRLudo1sabVdkxgg4jw>
+        <rdfs:label>Erimtan Arkeoloji ve Sanat Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9YwYyTPGyDvWLSVyyXPfNK -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9YwYyTPGyDvWLSVyyXPfNK">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBCm3aYcDiJwLV2U2Cmo4Ga"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCyJ1vtunbEm1OTb7Td30nr"/>
+        <rdfs:label>Türk Vakıf Hat Sanatları Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9klVE1s1U9gymdp3ufkfxv -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9klVE1s1U9gymdp3ufkfxv">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBisaHGoynwwdHkJo7OXoRh"/>
+        <rdfs:label>Çanakkale Şehitleri Anıtı Harp Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9tP7CWVC4Swr4Z5Zur3E5L -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9tP7CWVC4Swr4Z5Zur3E5L">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R5monYquceGgOqUp92rtxl"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7A1YyvvSmksg8020cKj1V3"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8ublBFX7YU3QpUuz0XbiqQ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBqzlD3EVwDPTm2HHpj6TR1"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC4ouyUFIDoIbzGG4CoEZsH"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCAjjzS7rHD3ckzx9IZFx07"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RTZeeAN0rJouGTVnAkgjGT"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBktgXUsPfaHIGkaoUyFnBu"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCOopSaAW5GdpZhqM04X7Ap"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RC3uesSRMITLaDc8ISTaTzD"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7T3FLIeuJ9yNxmzcIGuX10"/>
+            </owl:Restriction>
+        </rdf:type>
+        <webprotege:R72tlU8IFQ26SzCOu22nVNB rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:R78mX6jsY388UsrijvYvsoS rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:R8RJvgs9yFHCUR51bA0MkxD rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R8k8x7qs81d2kq3v4jNv2gb rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:RB8wTvoKWhOaznjI1xkjjtp rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:RBwZvPdGLvLxypDymiUyFrP rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:R8CC0HzFlMnvVGzW3J3RA5D rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tam 2 TL Öğrenci 1 TL</webprotege:R8CC0HzFlMnvVGzW3J3RA5D>
+        <webprotege:R9dww10mCsDzXa2TwRLXTOX rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bursa</webprotege:R9dww10mCsDzXa2TwRLXTOX>
+        <webprotege:RCxKF24OxTGpYzagyt5vY6T rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hocaalizade Mh. Atatürk Caddesi, No:8 16020 Heykel  Osmangazi / BURSA</webprotege:RCxKF24OxTGpYzagyt5vY6T>
+        <webprotege:RDDJneSxaDOSFYa2fdcrt5i rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kentmuzesi@bursa.bel.tr</webprotege:RDDJneSxaDOSFYa2fdcrt5i>
+        <webprotege:RDwx0rhUcPupFGpwelopbnI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09:30 – 17:00</webprotege:RDwx0rhUcPupFGpwelopbnI>
+        <webprotege:RKrSRLudo1sabVdkxgg4jw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(0224) 716 3790</webprotege:RKrSRLudo1sabVdkxgg4jw>
+        <rdfs:label>Bursa Kent Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9tZa0LdqwQTE7Zf2HiRmpP -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9tZa0LdqwQTE7Zf2HiRmpP">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDCV0D8BquwZxJicrMEorfV"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBktgXUsPfaHIGkaoUyFnBu"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCOopSaAW5GdpZhqM04X7Ap"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RDtQYC4jBEEzfcRwPvVj8h9"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RC3uesSRMITLaDc8ISTaTzD"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7T3FLIeuJ9yNxmzcIGuX10"/>
+            </owl:Restriction>
+        </rdf:type>
+        <webprotege:R72tlU8IFQ26SzCOu22nVNB rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R78mX6jsY388UsrijvYvsoS rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R8RJvgs9yFHCUR51bA0MkxD rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R8k8x7qs81d2kq3v4jNv2gb rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:RB8wTvoKWhOaznjI1xkjjtp rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:RBwZvPdGLvLxypDymiUyFrP rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R8CC0HzFlMnvVGzW3J3RA5D rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yetişkin: 8 TL
+Öğrenci:  4 TL
+10 kişinin üzerindeki gruplara indirim uygulanmaktadır:
+Yetişkin : 7 TL
+Öğrenci : 3 TL</webprotege:R8CC0HzFlMnvVGzW3J3RA5D>
+        <webprotege:R9dww10mCsDzXa2TwRLXTOX rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ankara</webprotege:R9dww10mCsDzXa2TwRLXTOX>
+        <webprotege:RCxKF24OxTGpYzagyt5vY6T rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ankara Rahmi M Koç Müzesi Necatibey Mahallesi, Depo Sokak No:1  Altındağ - Ankara Türkiye</webprotege:RCxKF24OxTGpYzagyt5vY6T>
+        <webprotege:RDDJneSxaDOSFYa2fdcrt5i rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ankara@rmk-museum.org.tr</webprotege:RDDJneSxaDOSFYa2fdcrt5i>
+        <webprotege:RDwx0rhUcPupFGpwelopbnI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Salı – Cuma Günleri
+10:00 - 17:00
+Cumartesi – Pazar ve Bayram Günleri
+10:00-18:00 (1 Ekim - 31 Mart)
+10:00-19:00 (1 Nisan - 30 Eylül)</webprotege:RDwx0rhUcPupFGpwelopbnI>
+        <webprotege:RKrSRLudo1sabVdkxgg4jw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">+90 312 309 68 00</webprotege:RKrSRLudo1sabVdkxgg4jw>
+        <rdfs:label>Rahmi Koç Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB6s7k7ssahKuEVdFzZShZE -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RB6s7k7ssahKuEVdFzZShZE">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC95pCOzZSjN8rGGUbkDpXr"/>
+        <rdfs:label>Panorama 1453 Tarih Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBZvYAjVOqvMpidrhpYEeUw -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBZvYAjVOqvMpidrhpYEeUw">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9CC4Dzzfg7HX3OOD1uLo54"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCMklzO3qb3Mqo9zNCC83Tg"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCzwgCPKfGFdvhsUOXrO7ZA"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDMHa7zOPLGZTAr5433XDc"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDRQh2xax0gMIIktVBaiZXb"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RL31Xl2vequ9f95F14uksY"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RmgvgXtz9gJu9UxPWQhqik"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBktgXUsPfaHIGkaoUyFnBu"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCOopSaAW5GdpZhqM04X7Ap"/>
+            </owl:Restriction>
+        </rdf:type>
+        <webprotege:R72tlU8IFQ26SzCOu22nVNB rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R78mX6jsY388UsrijvYvsoS rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:R8RJvgs9yFHCUR51bA0MkxD rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R8k8x7qs81d2kq3v4jNv2gb rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:RB8wTvoKWhOaznjI1xkjjtp rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:RBwZvPdGLvLxypDymiUyFrP rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:RCxKF24OxTGpYzagyt5vY6T rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gözcü Sokak No:2 06240 Ulus / ANKARA</webprotege:RCxKF24OxTGpYzagyt5vY6T>
+        <webprotege:RDDJneSxaDOSFYa2fdcrt5i rdf:datatype="http://www.w3.org/2001/XMLSchema#string">anmedmuz@gmail.com</webprotege:RDDJneSxaDOSFYa2fdcrt5i>
+        <webprotege:RDwx0rhUcPupFGpwelopbnI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Açılış: 8.30
+Kapanış: 19.00</webprotege:RDwx0rhUcPupFGpwelopbnI>
+        <webprotege:RKrSRLudo1sabVdkxgg4jw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">+90 (312) 324 31 60 – 61 – 65</webprotege:RKrSRLudo1sabVdkxgg4jw>
+        <rdfs:label>Anadolu Medeniyetleri Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBc1bTJ64XzKyU7hmW58nnI -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBc1bTJ64XzKyU7hmW58nnI">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC95pCOzZSjN8rGGUbkDpXr"/>
+        <rdfs:label>PTT Pul Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBlN21H0P0cknrXRngEw5tW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBlN21H0P0cknrXRngEw5tW">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBwRJV7mx54OyUFJQ3hPHTQ"/>
+        <rdfs:label>Atatürk Evi Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC6MdOwZMAdCeyXtCwm9NCD -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC6MdOwZMAdCeyXtCwm9NCD">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/REMBoTDy4d7BCYX0fbMzHg"/>
+        <rdfs:label>Burdur Doğa Tarihi Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCJ4FbJKQ8bZ6z2KcKj9f0r -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCJ4FbJKQ8bZ6z2KcKj9f0r">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9qtG7YlIj6SnZYcmLlOwU7"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCgQ7QU9O9pQZrqUY8FIYBw -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCgQ7QU9O9pQZrqUY8FIYBw">
+        <rdfs:label>fal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCmoC2XTE0f7z2avyOUMoUH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCmoC2XTE0f7z2avyOUMoUH">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RHUXieb40qTgnAFyWw26j1"/>
+        <rdfs:label>İstanbul Askeri Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCp7Kt9zAcVjUiyL7y3yw7S -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCp7Kt9zAcVjUiyL7y3yw7S">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/REMBoTDy4d7BCYX0fbMzHg"/>
+        <rdfs:label>MTA Tabiat Tarihi Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCvosDy9Sz1p3HhJaDarBvS -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCvosDy9Sz1p3HhJaDarBvS">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCOPsYF67fNyGCSjIJ1KOMl"/>
+        <rdfs:label>Efes Antik Kenti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCxiT6NJyphcQTtB1Sjc7CL -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCxiT6NJyphcQTtB1Sjc7CL">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R6xYawiNy77Yh1BSj8QIdX"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7JCqWIUagkUGep62Aw1uCr"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9SmH1xCcLgACSvnSIcX2c7"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBCm3aYcDiJwLV2U2Cmo4Ga"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBmqFMv5NlPOXk0Dai4SCuo"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCyJ1vtunbEm1OTb7Td30nr"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDqO1odtyBifL1dxhy7EifV"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RJVzzkxXThIRGnssgdaXOp"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBktgXUsPfaHIGkaoUyFnBu"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCOopSaAW5GdpZhqM04X7Ap"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RDtQYC4jBEEzfcRwPvVj8h9"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RC3uesSRMITLaDc8ISTaTzD"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7T3FLIeuJ9yNxmzcIGuX10"/>
+            </owl:Restriction>
+        </rdf:type>
+        <webprotege:R72tlU8IFQ26SzCOu22nVNB rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:R78mX6jsY388UsrijvYvsoS rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:R8RJvgs9yFHCUR51bA0MkxD rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R8k8x7qs81d2kq3v4jNv2gb rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:RB8wTvoKWhOaznjI1xkjjtp rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:RBwZvPdGLvLxypDymiUyFrP rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:R8CC0HzFlMnvVGzW3J3RA5D rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tam: 20 TL
+İndirimli: 10 TL (12 yaş üstü öğrenciler, öğretim görevlileri, 60 yaş ve üstü)
+Grup: 15 TL (10 kişi ve üstü)
+Ücretsiz: Pera Müzesi Dostları, Genç Çarşamba (öğrenciler), engelliler ve her engelliye refakat eden bir kişi, 12 yaş ve altı çocuklar, ICOM kart sahipleri, MMKD üyeleri ve basın mensupları.</webprotege:R8CC0HzFlMnvVGzW3J3RA5D>
+        <webprotege:R9dww10mCsDzXa2TwRLXTOX rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İstanbul</webprotege:R9dww10mCsDzXa2TwRLXTOX>
+        <webprotege:RCxKF24OxTGpYzagyt5vY6T rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meşrutiyet Caddesi No:65 34430 Tepebaşı - Beyoğlu - İstanbul</webprotege:RCxKF24OxTGpYzagyt5vY6T>
+        <webprotege:RDDJneSxaDOSFYa2fdcrt5i rdf:datatype="http://www.w3.org/2001/XMLSchema#string">info@peramuzesi.org.tr</webprotege:RDDJneSxaDOSFYa2fdcrt5i>
+        <webprotege:RDwx0rhUcPupFGpwelopbnI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Salı - Cumartesi  10:00 - 19:00
+Pazar                 12:00 - 18:00
+Pera Müzesi her Cuma 18:00 - 22:00 arası ücretsiz olarak ziyaret edilebilir.</webprotege:RDwx0rhUcPupFGpwelopbnI>
+        <webprotege:RKrSRLudo1sabVdkxgg4jw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">90 212 334 99 00</webprotege:RKrSRLudo1sabVdkxgg4jw>
+        <rdfs:label>Pera Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDMCSfM5LMPGhg4Pe0Pd1PA -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDMCSfM5LMPGhg4Pe0Pd1PA">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RHUXieb40qTgnAFyWw26j1"/>
+        <rdfs:label>Hava Kuvvetleri Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDjqDTDxxqFyOTYf92YjesW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDjqDTDxxqFyOTYf92YjesW">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/REMBoTDy4d7BCYX0fbMzHg"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RYD6PdRgGdxhsoYvkqCPGt"/>
+        <rdfs:label>Ege Üniversitesi Tabiat Tarihi Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDoFwFC0WUp0kSSeUDgcRsb -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDoFwFC0WUp0kSSeUDgcRsb">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R79rucLwAoOZ4k1PK2F6Wpi"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8RJPkHQAOtZWVn5rzS5Bon"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R95G1DzqE3EwsC1L4gCPexR"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBG5vKMUjld3uEC00jyQLfa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RGUyiB0AJbEvtrjs5dlZKU"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RNnTZvspeo7ZrKWL5gakzT"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RRXchrxCY1voPJmxSzLC48"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Rqb7CQt5DrKtbgwBxF5SRb"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RBktgXUsPfaHIGkaoUyFnBu"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCOopSaAW5GdpZhqM04X7Ap"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RDtQYC4jBEEzfcRwPvVj8h9"/>
+            </owl:Restriction>
+        </rdf:type>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RC3uesSRMITLaDc8ISTaTzD"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7T3FLIeuJ9yNxmzcIGuX10"/>
+            </owl:Restriction>
+        </rdf:type>
+        <webprotege:R72tlU8IFQ26SzCOu22nVNB rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:R78mX6jsY388UsrijvYvsoS rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:R8RJvgs9yFHCUR51bA0MkxD rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R8k8x7qs81d2kq3v4jNv2gb rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:RB8wTvoKWhOaznjI1xkjjtp rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:RBwZvPdGLvLxypDymiUyFrP rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:RCxKF24OxTGpYzagyt5vY6T rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ömerpaşa Caddesi, Dr. Zeki Zeren Sokağı No:17 Göztepe / İstanbul</webprotege:RCxKF24OxTGpYzagyt5vY6T>
+        <webprotege:RDwx0rhUcPupFGpwelopbnI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hafta İçi : 09.30 - 18.00
+Hafta Sonu : 09.30 - 19.00</webprotege:RDwx0rhUcPupFGpwelopbnI>
+        <webprotege:RKrSRLudo1sabVdkxgg4jw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0216 359 45 50 - 51</webprotege:RKrSRLudo1sabVdkxgg4jw>
+        <dc:coverage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İstanbul</dc:coverage>
+        <rdfs:label>Oyuncak Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDqGY8juxaMhqzvct12DOL6 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDqGY8juxaMhqzvct12DOL6">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDCV0D8BquwZxJicrMEorfV"/>
+        <rdfs:label>Tofaş Anadolu Arabaları Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb">
+        <rdfs:label>false</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RMOsw7m0s4vZbOM4s6IXtG -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RMOsw7m0s4vZbOM4s6IXtG">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCOPsYF67fNyGCSjIJ1KOMl"/>
+        <rdfs:label>TCDD Açıkhava Buharlı Lokomotif Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RPbQQq3AOso7AjQ4Sjylmf -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RPbQQq3AOso7AjQ4Sjylmf">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBCm3aYcDiJwLV2U2Cmo4Ga"/>
+        <rdfs:label>İstanbul Modern</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RTtgdH0RVNyxR6AqECighL -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RTtgdH0RVNyxR6AqECighL">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8siGUUa7aDI6Tnd7EIzRSl"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8ublBFX7YU3QpUuz0XbiqQ"/>
+        <rdfs:label>Bilim Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RXKUhhhBsRCtv7WQ0HbQ7X -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RXKUhhhBsRCtv7WQ0HbQ7X">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBCm3aYcDiJwLV2U2Cmo4Ga"/>
+        <rdfs:label>CerModern</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/ReD72NnqkqljvCGmup81Gk -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/ReD72NnqkqljvCGmup81Gk">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RC95pCOzZSjN8rGGUbkDpXr"/>
+        <rdfs:label>Topkapı Sarayı</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RgF9hpCqQIIHQBCbYFRCxM -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RgF9hpCqQIIHQBCbYFRCxM">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7NBk3jHYeNwIjd0uL9qMwJ"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9lqEe5fp6B6IZmO0MNv3Jr"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBCm3aYcDiJwLV2U2Cmo4Ga"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCAFBNGVvI45H9DY1YLc3cy"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCZ3830lqngb1hrb0BikJrp"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCmgcio8bptn6SVchHggzmk"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RIWYyfrH3oVQ5M72LrST3"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBvvzxEvU3SJFgmWQzrDVn0"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RCOopSaAW5GdpZhqM04X7Ap"/>
+            </owl:Restriction>
+        </rdf:type>
+        <webprotege:R72tlU8IFQ26SzCOu22nVNB rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R78mX6jsY388UsrijvYvsoS rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R8RJvgs9yFHCUR51bA0MkxD rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R8k8x7qs81d2kq3v4jNv2gb rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:RB8wTvoKWhOaznjI1xkjjtp rdf:resource="http://webprotege.stanford.edu/RDuw6uz97RcwzWbghXPZQmb"/>
+        <webprotege:RBwZvPdGLvLxypDymiUyFrP rdf:resource="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG"/>
+        <webprotege:R9dww10mCsDzXa2TwRLXTOX rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bayburt</webprotege:R9dww10mCsDzXa2TwRLXTOX>
+        <webprotege:RCxKF24OxTGpYzagyt5vY6T rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bayraktar Köyü Çayırlar Mevkii Bayburt</webprotege:RCxKF24OxTGpYzagyt5vY6T>
+        <webprotege:RDDJneSxaDOSFYa2fdcrt5i rdf:datatype="http://www.w3.org/2001/XMLSchema#string">baksi@baksi.org</webprotege:RDDJneSxaDOSFYa2fdcrt5i>
+        <webprotege:RKrSRLudo1sabVdkxgg4jw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">+90 458 247 34 38
++90 531 662 62 44</webprotege:RKrSRLudo1sabVdkxgg4jw>
+        <rdfs:label>Baksı Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RjYOZxWmUsulDDPeZukJ5Q -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RjYOZxWmUsulDDPeZukJ5Q">
+        <rdfs:label>İstanbul</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RlUR6sb6bzDHrmGAG7qZBT -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RlUR6sb6bzDHrmGAG7qZBT">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCOPsYF67fNyGCSjIJ1KOMl"/>
+        <rdfs:label>Nemrut Dağı</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RmFL2bd86zjC0uD5l4JJNE -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RmFL2bd86zjC0uD5l4JJNE">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBisaHGoynwwdHkJo7OXoRh"/>
+        <rdfs:label>Şehitlik Abidesi Savaş Eserleri Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RpabmgeDwvDS2IkwnEdV02 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RpabmgeDwvDS2IkwnEdV02">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBG5vKMUjld3uEC00jyQLfa"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCyJ1vtunbEm1OTb7Td30nr"/>
+        <rdfs:label>Gökyay Vakfı Satranç Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RvV2AsS2h1XoYkkrWKsmFO -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RvV2AsS2h1XoYkkrWKsmFO">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBCm3aYcDiJwLV2U2Cmo4Ga"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RYD6PdRgGdxhsoYvkqCPGt"/>
+        <rdfs:label>Anadolu Üniversitesi Çağdaş Sanatlar Müzesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RxjIp7sg5M7HBTDdpeyanG">
+        <rdfs:label>true</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.3.1) https://github.com/owlcs/owlapi -->
+
